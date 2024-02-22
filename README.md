@@ -41,25 +41,31 @@
 ### (3) 그래프 결과
 
 
-![평균 월급 대비 개발자 월급](https://github.com/ParkHeeJin00/KDT-5_PublicdataProject/assets/155441547/6134601b-14d2-448e-8058-2320c310f80d)
+![평균 월급 대비 개발자 월급](https://github.com/ParkHeeJin00/KDT-5_PublicDataProject/assets/155441547/e8960fdd-1e7c-44d6-99b9-1d8adc31c951)
 
 
-![임금상승률](https://github.com/ParkHeeJin00/KDT-5_PublicdataProject/assets/155441547/d9eb9d3d-1490-4b66-ae28-3dfea4c561f5)
+
+![임금상승률](https://github.com/ParkHeeJin00/KDT-5_PublicDataProject/assets/155441547/4801311b-a391-4362-857b-e2c81de0c5fe)
 
 
-![지역별 평균 연봉](https://github.com/ParkHeeJin00/KDT-5_PublicdataProject/assets/155441547/f23881e8-d817-494a-926c-fba231ee865d)
+
+![지역별 평균 연봉](https://github.com/ParkHeeJin00/KDT-5_PublicDataProject/assets/155441547/f18448a1-875b-46b9-83cd-fbc898d13e66)
 
 
-![개발자 임금상승률](https://github.com/ParkHeeJin00/KDT-5_PublicdataProject/assets/155441547/496e8d79-b049-45d8-bc81-a28fbc222239)
+
+![개발자 임금상승률](https://github.com/ParkHeeJin00/KDT-5_PublicDataProject/assets/155441547/467e9d90-7571-4943-8800-a9c61172b835)
 
 
-![개발자 평균 월급](https://github.com/ParkHeeJin00/KDT-5_PublicdataProject/assets/155441547/e933e607-0785-4b85-bf02-a2766fe1e968)
+
+![개발자 평균 월급](https://github.com/ParkHeeJin00/KDT-5_PublicDataProject/assets/155441547/c3b763cb-7597-44ee-af24-feaf24aa6157)
 
 
-![광역시별 개발자 평균 임금](https://github.com/ParkHeeJin00/KDT-5_PublicdataProject/assets/155441547/cf640b44-aca9-4ba4-85af-82be04245362)
+![광역시별 개발자 평균 임금](https://github.com/ParkHeeJin00/KDT-5_PublicDataProject/assets/155441547/19b77874-4387-4671-8e6b-0cba11477cae)
 
 
-![개발자 평균 근로일수](https://github.com/ParkHeeJin00/KDT-5_PublicdataProject/assets/155441547/dfabcb1a-d9aa-49e5-9fd1-381eb758c2f4)
+
+![개발자 평균 근로일수](https://github.com/ParkHeeJin00/KDT-5_PublicDataProject/assets/155441547/23c98064-225d-40f5-a3a9-8aa567e150a9)
+
 
 
 
